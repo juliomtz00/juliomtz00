@@ -1,4 +1,4 @@
-## howdy, i'm juli, 
+## howdy, i'm juli 🍇
 ### - my pronouns are he/him/they/them 🤠
 ### - i'm a robotics engineer currently switching to software development 👾
 ### - mostly focused on python, learning C++, Java and JavaScript 🪁
