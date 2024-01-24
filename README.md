@@ -1,6 +1,8 @@
-### howdy, i'm juli, my pronouns are he/him/they/them 🤠
-### i'm a robotics engineer currently switching to software development 👾
-### you can reach me at julio.mtz00@hotmail.com 🌮
+## howdy, i'm juli, 
+### - my pronouns are he/him/they/them 🤠
+### - i'm a robotics engineer currently switching to software development 👾
+### - mostly focused on python, learning C++, Java and JavaScript 🪁
+### - you can reach me at julio.mtz00@hotmail.com 🌮
 
 <!--
 **juliomtz00/juliomtz00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
