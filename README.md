@@ -1,7 +1,7 @@
 ## howdy, i'm juli 🍇
 ### - my pronouns are he/him/they/them 🤠
 ### - i'm a robotics engineer currently switching to software development 👾
-### - mostly focused on python, learning C++, Java and JavaScript 🪁
+### - mostly focused on Python and C++, currently learning C# and .NET 🪁
 ### - you can reach me at julio.mtz00@hotmail.com 🌮
 
 <!--
